@@ -5,7 +5,7 @@ body{
     font-family:verdana, sans-serif;
 }
 h2{
-	border: 2px solid black;
-	padding: 10px;
-	outline: black solid 5px
+	border: 2px solid green;
+	padding: 5px;
+	outline: green solid 5px
 }
