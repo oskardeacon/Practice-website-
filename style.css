@@ -11,6 +11,11 @@ h2{
 	outline: black solid 5px
 }
 
-p{
-	font-color: red
+h1{
+	border: 2px solid red;
+	padding: 10px;
+	outline: red solid 5px;
+	width: 130px;
 }
+		
+	
