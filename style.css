@@ -4,3 +4,9 @@ body{
     font-weight:bolder;
     font-family:verdana, sans-serif;
 }
+body{
+	border: 2px solid black;
+	padding: 10px;
+	outline: black solid 5px
+	outline-offset: 5px;
+}
